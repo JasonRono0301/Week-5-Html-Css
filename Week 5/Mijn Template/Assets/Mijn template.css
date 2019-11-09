@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.Afb1{
+    width: 1349px;
+    height: 667px;
+}
+
+.Afb2{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.as fa-home{
+    margin: 0% auto;
+}
+
+
+
+
+
