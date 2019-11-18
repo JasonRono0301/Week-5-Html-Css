@@ -1,25 +1,47 @@
 body{
     background-color: black;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+    max-width: 1347px;
+    max-height: 667px;
 }
 
-.Afb1{
-    width: 1349px;
-    height: 667px;
+.wittebalk{
+  background: white;
+  width: 1347px;
+  height: 50px;
 }
 
-.Afb2{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    margin-top: -200px;
-    margin-left: -200px;
+.alleiconen{
+    color: gray;
+    padding-top: 5px;
+    padding-left: 1060px;
+    word-spacing: 20px;
+    font-size: 40px;
 }
 
-.as fa-home{
-    margin: 0% auto;
+.logo{
+    position: relative;
+    bottom: 680px;
+    left: 515px;
 }
 
+.allefonts{
+    color: gray;
+    position: relative;
+    bottom: 650px;
+    left: 340px;
+    font-size: 50px;
+    word-spacing: 10px;
+}
 
+a {
+    position: relative;
+    top: 50px;
+    right: 50px;
+    font-size: 15px;
+
+}
 
 
 
